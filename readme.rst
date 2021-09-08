@@ -72,6 +72,8 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 ###################
 Developer
 ###################
-Lulu Erga Anjaswari 
+*******
+Lulu Erga Anjaswari
+*******
 -  `Linkedin <https://www.linkedin.com/in/lulu-erga-anjaswari/>`_
 -  `Github <https://github.com/luluergaa/>`_
