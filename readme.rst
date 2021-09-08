@@ -68,3 +68,8 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+## Developer ##
+Lulu Erga Anjaswari 
+https://www.linkedin.com/in/lulu-erga-anjaswari/
+https://github.com/luluergaa/
